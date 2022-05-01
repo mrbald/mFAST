@@ -39,3 +39,5 @@ If you have used mFAST 1.1 version, please notice there are some backward-incomp
 * This is an ideal data format for streaming graphs and feeds to web and mobile clients.
   * It can also go the other direction to stream from web and mobile clients.
 
+#### Vendor feeds known to work with mFAST
+- [Eurex T7](https://www.eurex.com/ex-en/support/technology/t7) EMDI/RDI/EMDS, [v10.0](https://www.eurex.com/ex-en/support/initiatives/t7-release-10-0)
